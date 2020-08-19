@@ -1,0 +1,12 @@
+{
+  "name": "stockWatch",
+  "displayName": "stockWatch",
+  "expo": {
+    "name": "stockWatch",
+    "slug": "stockWatch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
